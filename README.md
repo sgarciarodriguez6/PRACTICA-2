@@ -11,4 +11,4 @@ En este repositorio se agrupan los siguientes ficheros:
 - Data Original - Base de datos original 
 - Data Final.csv - Base de datos final, tras el proceso de limpieza
 - C.. - Código en bruto, realizado con RStudio
-- c -- Informe RMarkdown del código original.
+- Informe R-Markdown - Code.pdf- Informe RMarkdown del código original.
