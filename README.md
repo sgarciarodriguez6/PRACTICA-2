@@ -10,5 +10,5 @@ En este repositorio se agrupan los siguientes ficheros:
 - README - descripción del proyecto
 - Data Original - Base de datos original 
 - Data Final.csv - Base de datos final, tras el proceso de limpieza
-- Código R Studio.rmd - Código en bruto, realizado con RStudio
+- Código - Práctica 2 - Código en bruto, realizado con RStudio
 - Informe R-Markdown - Code.pdf- Informe RMarkdown del código original.
