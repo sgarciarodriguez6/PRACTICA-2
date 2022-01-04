@@ -13,3 +13,6 @@ En este repositorio se agrupan los siguientes ficheros:
 - Código - Práctica 2 - Código en bruto, realizado con RStudio
 - Informe R-Markdown - Práctica 2 - Informe RMarkdown del código original.
 - Informe Práctica 2 - Con los ejercicios resueltos de esta práctica
+
+Fuera de este repositorio se encuentra el vídeo de la presentación del proyecto en el siguiente enlace:
+https://drive.google.com/file/d/1TBjcKphjqb1mdAU3oMUKVCSEKTJ5zWKo/view?usp=sharing
